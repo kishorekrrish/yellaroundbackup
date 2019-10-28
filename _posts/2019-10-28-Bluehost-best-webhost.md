@@ -14,23 +14,23 @@ Bluehost provides a lot of services and is confusing as in what to choose. Under
 
 ## Bluehost comes with the following services
 
-|    | Hosting Services |
-|----|----|
-| 1  | Shared Hosting | 
-| 2  | VPS Hosting |
-| 3  | Dedicated Hosting |
-| 4  | Wordpress Hosting |
-| 5  | Managed WP Hosting (with WP Pro) |
-| 6  | eCommerce (WooCommerce)|
+|     |  Hosting Services |
+|-----|----|
+|  1  |  Shared Hosting | 
+|  2  |  VPS Hosting |
+|  3  |  Dedicated Hosting |
+|  4  |  Wordpress Hosting |
+|  5  |  Managed WP Hosting (with WP Pro) |
+|  6  |  eCommerce (WooCommerce)|
 
 and professional services include,
 
-|  | Professional Services |
-|----|----|
-| 1 | Full-Service Website | 
-| 2 | SEO Services |
-| 3 | Pay-Per-Click Services |
-| 4 | Website Migrator |
+|     |  Professional Services |
+|-----|----|
+|  1  |  Full-Service Website | 
+|  2  |  SEO Services |
+|  3  |  Pay-Per-Click Services |
+|  4  |  Website Migrator |
 
 Bluehost also provides domain management services.
 
@@ -78,17 +78,3 @@ Everything starts with a Domain Name. Search for your domain name here and build
 Bluehost is one of the best web hosting service provider. Choose any of the service that meets your needs and start building awesome websites.
 
 Rreceive $100 for Microsoft Advertising and $100 for Google Ads when you spend your first $25 on a new Microsoft Advertising and Google Ads account for signing up and setting up an account with [Bluehost](https://www.bluehost.com/track/salesforcelwc/).
-
-
-|-----------------+------------+-----------------+----------------|
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
-|-----------------|:-----------|:---------------:|---------------:|
-| First body part |Second cell | Third cell      | fourth cell    |
-| Second line     |foo         | **strong**      | baz            |
-| Third line      |quux        | baz             | bar            |
-|-----------------+------------+-----------------+----------------|
-| Second body     |            |                 |                |
-| 2 line          |            |                 |                |
-|=================+============+=================+================|
-| Footer row      |            |                 |                |
-|-----------------+------------+-----------------+----------------|
