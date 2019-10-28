@@ -3,7 +3,7 @@ layout: post
 title:  "Bluehost - One of the best web hosting company"
 author: Kishore
 categories: [ Webhosting, tutorial ]
-image: assets/images/5.jpg
+image: assets/images/bluehost.png
 ---
 
 # Bluehost - One of the best web hosting company
