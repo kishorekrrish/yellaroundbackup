@@ -10,7 +10,7 @@ baseurl: '/'
 email: 'yellaround.mail@gmail.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'yellaround-salesforcelwc-in'
-sharethis: '<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5db68f77020ee70012a2ad86&product=sticky-share-buttons'></script>'
+sharethis: '<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5db68f77020ee70012a2ad86&product=sticky-share-buttons"></script>'
 
 # Authors
 authors:
