@@ -78,3 +78,17 @@ Everything starts with a Domain Name. Search for your domain name here and build
 Bluehost is one of the best web hosting service provider. Choose any of the service that meets your needs and start building awesome websites.
 
 Rreceive $100 for Microsoft Advertising and $100 for Google Ads when you spend your first $25 on a new Microsoft Advertising and Google Ads account for signing up and setting up an account with [Bluehost](https://www.bluehost.com/track/salesforcelwc/).
+
+
+|-----------------+------------+-----------------+----------------|
+| Default aligned |Left aligned| Center aligned  | Right aligned  |
+|-----------------|:-----------|:---------------:|---------------:|
+| First body part |Second cell | Third cell      | fourth cell    |
+| Second line     |foo         | **strong**      | baz            |
+| Third line      |quux        | baz             | bar            |
+|-----------------+------------+-----------------+----------------|
+| Second body     |            |                 |                |
+| 2 line          |            |                 |                |
+|=================+============+=================+================|
+| Footer row      |            |                 |                |
+|-----------------+------------+-----------------+----------------|
