@@ -63,16 +63,16 @@
 }
 
 
-table{
-    border-collapse: collapse;
-    border-spacing: 1;
-    border:2px solid #ddd;
+table, td, th {  
+  border: 1px solid #ddd;
+  text-align: left;
 }
 
-th{
-    border:2px solid #ddd;
+table {
+  border-collapse: collapse;
+  width: 100%;
 }
 
-td{
-    border:1px solid #ddd;
+th, td {
+  padding: 15px;
 }
