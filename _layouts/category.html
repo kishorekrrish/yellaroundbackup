@@ -8,7 +8,7 @@ layout: default
 {% for post in site.categories[page.tag] %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
-    {{ post.excerpt }}
+    {% include postbox.html %}
   </li>
 {% endfor %}
 </ul>
