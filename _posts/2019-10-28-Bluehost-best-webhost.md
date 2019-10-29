@@ -5,6 +5,7 @@ author: Kishore
 categories: [ Webhosting, tutorial ]
 image: assets/images/bluehost.png
 ---
+Bluehost is a leading web hosting provider used by millions of users worldwide. Over 2 million websites worldwide are powered by Bluehost. 
 
 # Bluehost - One of the best web hosting company
 
