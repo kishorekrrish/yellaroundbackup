@@ -2,20 +2,13 @@
 layout: default
 ---
 
-<h1>{{ page.tag }}</h1>
-<br></br>
-
-
-<div class="masonrygrid row listrecent">
-
-  {% for post in site.categories[page.tag] %}
-
-      {% include postbox.html %}
-
-  {% endfor %}
-
-</div> 
-
+<!-- Posts Index
+================================================== -->
+{% if paginator.previous_page %}
+{% if paginator.previous_page > 0 %}
+<div id="jumptopageof"></div>
+{% endif %}
+{% endif %} 
 
 <section class="recent-posts row">
 
