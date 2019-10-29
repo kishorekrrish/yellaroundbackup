@@ -2,7 +2,7 @@
 layout: post
 title:  "Bluehost - One of the best web hosting company"
 author: Kishore
-categories: [ Webhosting, tutorial ]
+categories: [ Webhosting, tutorial, jekyll ]
 image: assets/images/bluehost.png
 ---
 Bluehost is a leading web hosting provider used by millions of users worldwide. Over 2 million websites worldwide are powered by Bluehost. 
