@@ -20,6 +20,7 @@ Bluehost provides a lot of services and is confusing as in what to choose. Under
 |  5  |  Managed WP Hosting (with WP Pro) |
 |  6  |  eCommerce (WooCommerce)|
 
+
 and professional services include,
 
 |     |  Professional Services |
@@ -28,6 +29,7 @@ and professional services include,
 |  2  |  SEO Services |
 |  3  |  Pay-Per-Click Services |
 |  4  |  Website Migrator |
+
 
 Bluehost also provides domain management services.
 
