@@ -9,6 +9,8 @@ Bluehost is a leading web hosting provider used by millions of users worldwide. 
 
 Bluehost provides a lot of services and is confusing as in what to choose. Understand what each service has to offer and decide the one which is best suits your needs. Below is an in-depth analysis to help to choose a service for your needs with ease.
 
+{:toc}
+
 ## Bluehost comes with the following services
 
 |     |  Hosting Services |
