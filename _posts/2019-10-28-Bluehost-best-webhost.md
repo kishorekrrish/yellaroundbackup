@@ -11,6 +11,7 @@ Bluehost provides a lot of services and is confusing as in what to choose. Under
 
 * Do not remove this line (it will not be displayed)
 {:toc}
+<script src="assets/js/mytoc.js"></script>
 
 
 ## Bluehost comes with the following services
