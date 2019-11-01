@@ -14,10 +14,10 @@ sharethis: '<script type="text/javascript" src="https://platform-api.sharethis.c
 
 # Authors
 authors:
-  sal:
+  Kishore:
     name: Kishore
     display_name: Kishore
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 'assets/images/logo.png'
     email: wowthemesnet@gmail.com
     web: 
     twitter: https://twitter.com/kbandanadam
