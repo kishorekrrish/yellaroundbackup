@@ -2,7 +2,7 @@
 layout: post
 title:  "Bluehost - One of the best web hosting company"
 author: Kishore
-categories: [ Webhosting, tutorial, jekyll ]
+categories: [ Webhosting, jekyll ]
 image: assets/images/bluehost.png
 ---
 Bluehost is a leading web hosting provider used by millions of users worldwide. Over 2 million websites worldwide are powered by Bluehost. 
@@ -33,7 +33,7 @@ and professional services include,
 
 Bluehost also provides domain management services.
 
-## Hosting Services
+## Hosting Services Breakdown
 
 ### Shared Hosting
 Shared Hosting is one of the most common and affordable forms of website hosting. You will be sharing resources with multiple users using a secured server to host your website online. Bluehost provides affordable shared hosting services so you can find the perfect shared hosting package for your website needs. If you are a beginner and if you don't want to spend money on dedicated or virtual hosting, Shared hosting is the best option for you to go with.
