@@ -5,7 +5,7 @@ description: "Yell Around for Blogging"
 meta_description: "Yell Around for Blogging."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-paginate: 3
+paginate: 5
 baseurl: '/'
 email: 'yellaround.mail@gmail.com'
 google_analytics: 'UA-46278016-1'
