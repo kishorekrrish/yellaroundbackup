@@ -7,10 +7,6 @@ image: assets/images/bluehost.png
 ---
 Bluehost is a leading web hosting provider used by millions of users worldwide. Over 2 million websites worldwide are powered by Bluehost. 
 
-# Bluehost - One of the best web hosting company
-
-Bluehost is a leading web hosting provider used by millions of users worldwide. Over 2 million websites worldwide are powered by Bluehost. 
-
 Bluehost provides a lot of services and is confusing as in what to choose. Understand what each service has to offer and decide the one which is best suits your needs. Below is an in-depth analysis to help to choose a service for your needs with ease.
 
 ## Bluehost comes with the following services
