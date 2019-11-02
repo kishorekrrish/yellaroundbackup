@@ -21,7 +21,7 @@ Bluehost provides a lot of services, we tried to break them down into simple ter
 {:toc}
 <script src="/assets/js/mytoc.js" async></script>
 
-## What the Internet has to say about Bluehost?
+## What does Wordpress.org has to say about Bluehost?
 ![Wordpress about Bluehost](/assets/images/Wordpress-Bluehost.png)
 
 
