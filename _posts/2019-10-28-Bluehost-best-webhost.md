@@ -32,7 +32,7 @@ Bluehost provides a lot of services, we tried to break them down into simple ter
 |  4  |  Wordpress Hosting |
 |  5  |  Managed WP Hosting (with WP Pro) |
 |  6  |  eCommerce (WooCommerce)|
-|-----|-----|
+|-----+-----|
 
 and professional services include,
 
@@ -42,7 +42,7 @@ and professional services include,
 |  2  |  SEO Services |
 |  3  |  Pay-Per-Click Services |
 |  4  |  Website Migrator |
-|-----|-----|
+|-----+-----|
 
 Bluehost also provides domain management services.
 
