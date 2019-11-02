@@ -8,10 +8,10 @@ image: assets/images/bluehost.png
 Bluehost is a leading web hosting provider used by millions of users worldwide. Over 2 million websites worldwide are powered by Bluehost. 
 
 Bluehost provides 
--Free Domain for the 1st year
--Free SSL Certificate
--24/7 support
--30 day  money back guarantee
+- Free Domain for the 1st year
+- Free SSL Certificate
+- 24/7 support
+- 30 day  money back guarantee
 
 
 Bluehost provides a lot of services and is confusing as in what to choose. Understand what each service has to offer and decide the one which is best suits your needs. Below is an in-depth analysis to help to choose a service for your needs with ease.
