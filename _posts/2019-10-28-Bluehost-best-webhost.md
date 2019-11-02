@@ -100,7 +100,7 @@ Full-Service Website is a professional service provided by Bluehost, where the e
 ### SEO Services
 Search Engine Optimization is one of the important aspects when it comes to your website ranking in search results. There are a lot of aspects that result in SEO optimization like proper usage of keywords, keyword volume, meta description, title and more. Bluehost provides one such service called SEO Services which helps you optimize your website with the most effective keywords for exposure. This service creates custom content for your site to improve search relevance. It gives you full features to review website analytics to see how many visitors your site is getting and provide weekly reports for your keywords and their performance in search results.
 
-<a href="https://www.bluehost.com/track/salesforcelwc/" target="_blank" rel="nofollow" class="btn btn-primary">Check Prices</a>
+<a href="https://www.bluehost.com/track/salesforcelwc/" target="_blank" rel="nofollow" class="button">Check Prices</a>
 
 ### Pay-Per-Click Services
 Pay-Per-Click also called PPC are the ad campaigns where you pay per each click for the ads that are created. Bluehost professionals create various ad campaigns that drive a lot of traffic.
