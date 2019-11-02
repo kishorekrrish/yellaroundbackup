@@ -23,7 +23,7 @@ Bluehost provides a lot of services, we tried to break them down into simple ter
 
 ## What the Internet has to say about Bluehost?
 ![Wordpress about Bluehost](/assets/images/Wordpress-Bluehost.png)
-<img src="{{site.baseurl}}/assets/images/Wordpress-Bluehost.png">
+
 
 ## What Bluehost has to Offer
 
