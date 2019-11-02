@@ -13,15 +13,16 @@ Bluehost provides
 - 24/7 support
 - 30 day  money back guarantee
 
+Bluehost provides a service called Blue Flash, where you get expert guidance from Wordpess experts to set up your blog. They help you select the right theme and plugins which suits your website needs. You will get a chance to learn and move forward in the right track. It is always important to be in the right track in the online world, else you would end up in a mess. So, I think it is a great service which helps the beginner bloggers to stay in the right path.
 
-Bluehost provides a lot of services and is confusing as in what to choose. Understand what each service has to offer and decide the one which is best suits your needs. Below is an in-depth analysis to help to choose a service for your needs with ease.
+Bluehost provides a lot of services, we tried to break them down into simple terms so you can better understand what you are looking for and choose with ease. Understand what each service has to offer and decide the one which is best suits your needs.
 
 * Do not remove this line (it will not be displayed)
 {:toc}
 <script src="/assets/js/mytoc.js" async></script>
 
 
-## Bluehost comes with the following services
+## What Bluehost has to Offer
 
 |     |  Hosting Services |
 |-----|----|
@@ -31,7 +32,7 @@ Bluehost provides a lot of services and is confusing as in what to choose. Under
 |  4  |  Wordpress Hosting |
 |  5  |  Managed WP Hosting (with WP Pro) |
 |  6  |  eCommerce (WooCommerce)|
-
+|-----|-----|
 
 and professional services include,
 
@@ -41,7 +42,7 @@ and professional services include,
 |  2  |  SEO Services |
 |  3  |  Pay-Per-Click Services |
 |  4  |  Website Migrator |
-
+|-----|-----|
 
 Bluehost also provides domain management services.
 
