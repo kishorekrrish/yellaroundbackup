@@ -21,6 +21,27 @@ Bluehost provides a lot of services, we tried to break them down into simple ter
 {:toc}
 <script src="/assets/js/mytoc.js" async></script>
 
+## Pros and Cons
+### Pros
+1. Free Domain for the 1st year
+2. Free SSL Certificate
+3. 24/7 support (over phone and chat)
+4. 30-day money-back guarantee
+5. Blue Flash service
+6. Professional services
+7. 1-click WordPress installation
+8. WordPress Staging Environment
+9. Server Status Notifications
+10. Easy-to-use Google Ads Creation Tool
+
+### Cons
+1. Not recommended for large scale websites
+2. Users complain about site down times
+3. Site migration is not free
+4. Web hosting renew rates are high
+5. Add-ons and services are costly
+6. Doesn't have upgraded software version as recommended by WordPress
+
 ## What does Internet has to say about Bluehost?
 ![Wordpress about Bluehost](/assets/images/Wordpress-Bluehost.png)
 
@@ -51,6 +72,8 @@ and professional services include,
 |-----+-----|
 
 Bluehost also provides domain management services.
+
+Before you choose the hosting service, go through the breakdown below which helps you understand what each service has to offer and what suits you better.
 
 ## Hosting Services Breakdown
 
@@ -113,6 +136,9 @@ Everything starts with a Domain Name. Search for your domain name here and build
 
 
 ## Conclusion
-Bluehost is one of the best web hosting service provider. Choose any of the service that meets your needs and start building awesome websites.
+Bluehost is one of the best web hosting service provider. Choose any of the service that meets your needs and start building awesome websites. There are other web hosting companies like SiteGround, Hostinger, Hostgator which offer better performance. Bluehost is recommended for small and medium websites.
 
-Rreceive $100 for Microsoft Advertising and $100 for Google Ads when you spend your first $25 on a new Microsoft Advertising and Google Ads account for signing up and setting up an account with [Bluehost](https://www.bluehost.com/track/salesforcelwc/){:rel="nofollow"}.
+## Specifications
+![Bluehost shared hosting pricing](/assets/images/Bluehost-specifications.png)
+
+Receive $100 for Microsoft Advertising and $100 for Google Ads when you spend your first $25 on a new Microsoft Advertising and Google Ads account for signing up and setting up an account with [Bluehost](https://www.bluehost.com/track/salesforcelwc/){:rel="nofollow"}.
