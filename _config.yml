@@ -21,7 +21,8 @@ authors:
     email: salesforcelwc@gmail.com
     web: https://www.salesforcelwc.in
     twitter: https://twitter.com/KishoreSfdc
-    description: "Salesforce Developer and a Blogger."
+    description: 
+      "Salesforce Developer and a Blogger."
 
 # Plugins
 plugins: 
