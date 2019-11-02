@@ -13,7 +13,7 @@ Bluehost provides
 - 24/7 support
 - 30 day  money back guarantee
 
-Bluehost provides a service called Blue Flash, where you get expert guidance from Wordpess experts to set up your blog. They help you select the right theme and plugins which suits your website needs. You will get a chance to learn and move forward in the right track. It is always important to be in the right track in the online world, else you would end up in a mess. So, I think it is a great service which helps the beginner bloggers to stay in the right path.
+> Bluehost provides a service called Blue Flash, where you get expert guidance from Wordpess experts to set up your blog. They help you select the right theme and plugins which suits your website > > needs. You will get a chance to learn and move forward in the right track. It is always important to be in the right track in the online world, else you would end up in a mess. So, I think it is a great service which helps the beginner bloggers to stay in the right path.
 
 Bluehost provides a lot of services, we tried to break them down into simple terms so you can better understand what you are looking for and choose with ease. Understand what each service has to offer and decide the one which is best suits your needs.
 
