@@ -33,7 +33,8 @@ Bluehost provides a lot of services, we tried to break them down into simple ter
 |  5  |  Managed WP Hosting (with WP Pro) |
 |  6  |  eCommerce (WooCommerce)|
 |-----+-----|
-(<--)
+  
+  
 and professional services include,
 
 |     |  Professional Services |
