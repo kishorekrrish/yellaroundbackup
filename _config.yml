@@ -38,7 +38,17 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
+
     
+pagination:
+  enabled: true
+  per_page: 2
+  permalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  
 # Other
 markdown: kramdown
 highlighter: rouge
