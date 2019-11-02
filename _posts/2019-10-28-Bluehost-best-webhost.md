@@ -59,10 +59,11 @@ Shared Hosting is one of the most common and affordable forms of website hosting
 
 ![Bluehost shared hosting pricing](/assets/images/shared-hosting-bluehost.png)
 
-<a href="https://www.bluehost.com/track/salesforcelwc/" class="btn btn-primary btn-lg" rel="nofollow">Check Prices</a>
+<a href="https://www.bluehost.com/track/salesforcelwc/" rel="nofollow">
+<div class="btn btn-primary btn-lg">Check Prices</div>
+</a>
 
 <script src="/js/jquery.min.js"></script>
-Check
 {% include buttons.html %}
 
 <button name="button" onclick="http://www.google.com" class="btn btn-primary btn-lg">Click me</button>
