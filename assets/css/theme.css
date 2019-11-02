@@ -862,11 +862,3 @@ iframe {
     
 }
 
-.mybtn {
-    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
-    font-weight:500;
-    font-size:15px;
-    border-radius: .3rem;
-    color:#fff;
-    cursor: pointer;
-}
