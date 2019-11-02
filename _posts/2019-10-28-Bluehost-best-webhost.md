@@ -65,7 +65,7 @@ Shared Hosting is one of the most common and affordable forms of website hosting
 Check
 {% include buttons.html %}
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+<button name="button" onclick="http://www.google.com" class="btn btn-primary btn-lg">Click me</button>
 
 ### VPS Hosting
 Virtual Private Server hosting, (VPS hosting), is a website hosting service that provides you resources such as RAM and CPU dedicated to your hosting account, unlike shared hosting. A virtual private server is a virtual machine sold as a service. This is achieved by virtualizing a Dedicated server and dividing the resources among the users on that particular server. This means that you get to use your allocated resources (RAM and CPU) regardless of other users on the server. Where in shared hosting you are not guaranteed to get to use all the allocated resources promised.
