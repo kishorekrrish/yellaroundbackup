@@ -24,6 +24,8 @@ Bluehost provides a lot of services, we tried to break them down into simple ter
 ## What does Wordpress.org has to say about Bluehost?
 ![Wordpress about Bluehost](/assets/images/Wordpress-Bluehost.png)
 
+![Bitcatcha about Bluehost](/assets/images/Bitcatcha-Bluehost.png)
+
 
 ## What Bluehost has to Offer
 
