@@ -151,6 +151,6 @@ Choose the domain name the best suits your niche/company. Check if your preferre
 
 ## Conclusion
 [Bluehost](https://www.bluehost.com/track/salesforcelwc/){:rel="nofollow"} is one of the best web hosting service provider. Choose any of the service that meets your needs and start building awesome websites. There are other web hosting companies like SiteGround, <a href="http://www.jdoqocy.com/click-7946095-13568843" target="_top">
-<img src="http://www.lduhtrp.net/image-7946095-13568843" width="150" height="40" alt="" border="0"/></a>, Hostgator which offer better performance. Bluehost is recommended for small and medium websites.
+<img src="http://www.lduhtrp.net/image-7946095-13568843" width="140" height="35" alt="" border="0"/></a>, <script type="text/javascript" language="javascript" src="http://www.anrdoezrs.net/placeholder-40956191?target=_top&mouseover=N"></script>,Hostgator which offer better performance. Bluehost is recommended for small and medium websites.
 
 [Receive $100 for Microsoft Advertising and $100 for Google Ads](https://www.bluehost.com/track/salesforcelwc/){:rel="nofollow"} when you spend your first $25 on a new Microsoft Advertising and Google Ads account for signing up and setting up an account with [Bluehost](https://www.bluehost.com/track/salesforcelwc/){:rel="nofollow"}.
