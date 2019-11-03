@@ -6,7 +6,6 @@ categories: [ Webhosting, jekyll ]
 image: assets/images/bluehost.png
 last_modified_at:   2019-11-03 8:30:00 +0000
 ---
-Last updated: {{ page.last-modified-date }}
 
 Bluehost is a leading web hosting provider used by millions of users worldwide. Over 2 million websites worldwide are powered by Bluehost. 
 
