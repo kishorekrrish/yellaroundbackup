@@ -89,6 +89,10 @@ Shared Hosting is one of the most common and affordable forms of website hosting
 ### VPS Hosting
 Virtual Private Server hosting, (VPS hosting), is a website hosting service that provides you resources such as RAM and CPU dedicated to your hosting account, unlike shared hosting. A virtual private server is a virtual machine sold as a service. This is achieved by virtualizing a Dedicated server and dividing the resources among the users on that particular server. This means that you get to use your allocated resources (RAM and CPU) regardless of other users on the server. Where in shared hosting you are not guaranteed to get to use all the allocated resources promised.
 
+![Bluehost vps hosting pricing](/assets/images/vps-bluehost-pricing.png)
+
+![Bluehost vps hosting pricing](/assets/images/vps-bluehost-pricing-compressor.png)
+
 <a href="https://www.bluehost.com/track/salesforcelwc/" target="_blank" rel="nofollow" class="btn btn-primary">Check Prices</a>
 
 ### Dedicated Hosting
