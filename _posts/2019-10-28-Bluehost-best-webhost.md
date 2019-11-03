@@ -5,6 +5,8 @@ author: Kishore
 categories: [ Webhosting, jekyll ]
 image: assets/images/bluehost.png
 ---
+Last updated: {{ page.last-modified-date }}
+
 Bluehost is a leading web hosting provider used by millions of users worldwide. Over 2 million websites worldwide are powered by Bluehost. 
 
 Bluehost provides 
