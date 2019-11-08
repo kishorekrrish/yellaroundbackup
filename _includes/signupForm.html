@@ -1,0 +1,21 @@
+<div id='leadForm'>
+</div>
+<script src='https://kishorelwc-developer-edition.ap5.force.com/salesforcelwc/lightning/lightning.out.js'/>
+
+<script>
+      
+    $Lightning.use("c:form", function() {
+
+    $Lightning.createComponent("c:leadForm",
+    { 
+
+  },
+   "leadForm",
+    function(component) {
+
+  console.log("LWC component was created");
+    });
+ },
+   'https://kishorelwc-developer-edition.ap5.force.com/salesforcelwc',
+   'session-id');
+ </script>
