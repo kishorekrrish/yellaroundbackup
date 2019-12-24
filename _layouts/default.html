@@ -29,15 +29,16 @@
     
 
 <script>
-import { createElement, register } from 'lwc';
-import { registerWireService } from '@lwc/wire-service';
-import UiApp from 'ui/app';
+    import { LightningElement, api } from 'lwc';
 
-registerWireService(register);
-
-const app = createElement('my-app', { is: UiApp });
-// eslint-disable-next-line @lwc/lwc/no-document-query
-document.querySelector('#main').appendChild(app);
+    export default class ChartBar extends LightningElement {
+        @api percentage;
+    
+        get style() {
+            return `width: ${this.percentage}%`;
+        }
+    }
+    
 </script>
 </head>
     
