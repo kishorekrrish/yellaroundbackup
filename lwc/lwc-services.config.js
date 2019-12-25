@@ -1,3 +1,3 @@
 module.exports = {
-    resources: [{ from: 'src/resources', to: 'dist/resources' }]
+    resources: [{ from: 'lwc/src/resources', to: 'lwc/dist/resources' }]
 };
