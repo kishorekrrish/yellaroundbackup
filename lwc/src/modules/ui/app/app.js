@@ -11,6 +11,7 @@ export default class App extends LightningElement {
     _isWindowHistoryUpdate = false;
 
     connectedCallback() {
+        console.log("In LWC");
         let that = this;
         window.onpopstate = function(event) {
             if (event.state && event.state.page) {
